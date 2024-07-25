@@ -1,0 +1,11 @@
+# python
+.python-version
+*.egg-info
+__pycache__/
+*.py[cod]
+dist
+outputs/*
+logs/*
+wandb/*
+# macOS
+.DS_Store
